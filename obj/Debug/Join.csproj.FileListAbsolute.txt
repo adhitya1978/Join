@@ -1,7 +1,0 @@
-c:\users\dhanny\documents\visual studio 2012\Projects\Join\Join\bin\Debug\Join.exe.config
-c:\users\dhanny\documents\visual studio 2012\Projects\Join\Join\obj\Debug\Join.csprojResolveAssemblyReference.cache
-c:\users\dhanny\documents\visual studio 2012\Projects\Join\Join\bin\Debug\Join.exe
-c:\users\dhanny\documents\visual studio 2012\Projects\Join\Join\bin\Debug\Join.pdb
-c:\users\dhanny\documents\visual studio 2012\Projects\Join\Join\bin\Debug\ICSharpCode.SharpZipLib.dll
-c:\users\dhanny\documents\visual studio 2012\Projects\Join\Join\obj\Debug\Join.exe
-c:\users\dhanny\documents\visual studio 2012\Projects\Join\Join\obj\Debug\Join.pdb
